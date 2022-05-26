@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D2iG
+- 👋 Hi, I’m @d2iG
 - 👀 I’m interested in Programing, Graphic Design, & Game
 - 🌱 I’m currently learning Java Scrypt & Python
 
