@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d2iG
-- 👀 I’m interested in Programing, Graphic Design, Anime, Game, Football, & Music
-- 🌱 I’m currently learning HTML, CSS, Sass, Bootstrap, Tailwind, JavaScrypt, TypeScript, ReactJS, & NodeJS
+- Hi, I’m @d2iG
+- I’m interested in Technology, Photography, Football, Music, Games, & Fishing
+- I’m currently learning JavaScript, ReactJS, Tailwind, TypeScript, Git, Figma, and CorelDRAW
 
